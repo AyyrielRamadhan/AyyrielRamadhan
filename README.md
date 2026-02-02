@@ -41,3 +41,17 @@ Here are some ideas to get you started:
 ![https://www.instagram.com/ayyriel_r?igsh=MWpnMmNzbDg4YnBwbA==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://github.com/AyyrielRamadhan](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![https://www.tiktok.com/@yrilz06?_r=1&_t=ZS-93aZLNXg2pJ](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+
+##### **🎮Play Games With Me**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyyrielRamadhan/AyyrielRamadhan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyyrielRamadhan/AyyrielRamadhan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AyyrielRamadhan/AyyrielRamadhan/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/AyyrielRamadhan/AyyrielRamadhan/output/snake.svg" alt="Snake animation" />
+
+###
