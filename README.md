@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### *👦🏼About Me*
-- 🔭 I’m currently working on *Universitas Teknologi Digital Indonesia*
-- 🌱 I’m currently learning *Laravel Framework*
-- 📫 How to reach me: *Instagram: *Ayyriel_r**
+##### _👦🏼About Me_
+
+- 🔭 I’m currently working on _Universitas Teknologi Digital Indonesia_
+- 🌱 I’m currently learning _Laravel Framework_
+- 📫 How to reach me: *Instagram: *Ayyriel_r\*\*
 - 💬 Ask me about **UI/UX Design**
 
-##### *🤖Skills*
+##### _🤖Skills_
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
@@ -36,11 +37,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
-##### *📨Connect with me*
+##### _📨Connect with me_
 
-![https://www.instagram.com/ayyriel_r?igsh=MWpnMmNzbDg4YnBwbA==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://github.com/AyyrielRamadhan](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![https://www.tiktok.com/@yrilz06?_r=1&_t=ZS-93aZLNXg2pJ](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+<a href="https://www.instagram.com/ayyriel_r?igsh=MWpnMmNzbDg4YnBwbA==" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href="https://github.com/AyyrielRamadhan" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
+<a href="https://www.tiktok.com/@yrilz06?_r=1&_t=ZS-93aZLNXg2pJ" target="_blank"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"> </a>
 
 ##### **🎮Play Games With Me**
 
