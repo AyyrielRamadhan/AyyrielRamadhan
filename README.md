@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ##### _👦🏼About Me_
 
-- 🔭 I’m currently working on _Universitas Teknologi Digital Indonesia_
-- 🌱 I’m currently learning _Laravel Framework_
-- 📫 How to reach me: *Instagram: *Ayyriel_r\*\*
+- 🔭 I’m currently working on **_Universitas Teknologi Digital Indonesia_**
+- 🌱 I’m currently learning **_Laravel Framework_**
+- 📫 How to reach me: **Instagram: _Ayyriel_r_**
 - 💬 Ask me about **UI/UX Design**
 
 ##### _🤖Skills_
@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/ayyriel_r?igsh=MWpnMmNzbDg4YnBwbA==" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 <a href="https://github.com/AyyrielRamadhan" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
 <a href="https://www.tiktok.com/@yrilz06?_r=1&_t=ZS-93aZLNXg2pJ" target="_blank"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"> </a>
+<a href="https://youtube.com/@ayyriel_ramadhan5530?si=sZFpZ3tze1c5BOKK" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
+<a href="https://discordapp.com/users/1039457201913344022" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<a href="https://www.linkedin.com/in/ayyriel-ramadhan-91b79a374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 ##### **🎮Play Games With Me**
 
